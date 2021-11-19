@@ -1,1 +1,0 @@
-# TextOnlyNutritionLabel.github.io

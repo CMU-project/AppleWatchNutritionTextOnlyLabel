@@ -2,9 +2,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1637302689788.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1637302689788-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1637302689788-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1637344886275.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1637344886275-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1637344886275-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       </div>\
 \
@@ -15,12 +15,12 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="s-d12245cc-1680-458d-89dd-4f0d7fb22724" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Screen 1" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1637302689788.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1637302689788-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1637302689788-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1637344886275.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1637344886275-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1637344886275-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
-      <div id="s-Dynamic_Panel_1" class="pie dynamicpanel firer ie-background commentable non-processed" customid="Dynamic Panel 2" datasizewidth="375.0px" datasizeheight="707.0px" dataX="-0.0" dataY="105.0" >\
-        <div id="s-Panel_1" class="pie panel default firer ie-background commentable non-processed" customid="Panel 2"  datasizewidth="375.0px" datasizeheight="707.0px" >\
+      <div id="s-Dynamic_Panel_1" class="pie dynamicpanel firer ie-background commentable non-processed" customid="Dynamic Panel 2" datasizewidth="375.0px" datasizeheight="707.6px" dataX="-0.0" dataY="104.5" >\
+        <div id="s-Panel_1" class="pie panel default firer ie-background commentable non-processed" customid="Panel 2"  datasizewidth="375.0px" datasizeheight="707.6px" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -29,7 +29,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           	<div class="layoutWrapper scrollable">\
           	  <div class="paddingLayer">\
                 <div class="freeLayout">\
-                <div id="s-Table_1" class="pie table firer ie-background commentable non-processed" customid="Table_1"  datasizewidth="374.0px" datasizeheight="551.0px" dataX="-0.0" dataY="25.3" originalwidth="372.9999999999996px" originalheight="549.9672344844607px" >\
+                <div id="s-Table_1" class="pie table firer ie-background commentable non-processed" customid="Table_1"  datasizewidth="374.0px" datasizeheight="551.0px" dataX="-0.0" dataY="126.4" originalwidth="372.9999999999996px" originalheight="549.9672344844607px" >\
                   <div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
@@ -191,7 +191,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                     </div>\
                   </div>\
                 </div>\
-                <div id="s-Table_2" class="pie table firer ie-background commentable non-processed" customid="Table 2"  datasizewidth="372.8px" datasizeheight="537.1px" dataX="1.2" dataY="883.2" originalwidth="371.8432958228559px" originalheight="536.0778628099459px" >\
+                <div id="s-Table_2" class="pie table firer ie-background commentable non-processed" customid="Table 2"  datasizewidth="372.8px" datasizeheight="537.1px" dataX="1.2" dataY="984.4" originalwidth="371.8432958228559px" originalheight="536.0778628099459px" >\
                   <div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
@@ -257,7 +257,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                     </div>\
                   </div>\
                 </div>\
-                <div id="s-Table_3" class="pie table firer ie-background commentable non-processed" customid="Table 3"  datasizewidth="374.0px" datasizeheight="307.0px" dataX="-0.0" dataY="576.3" originalwidth="372.9999999999999px" originalheight="305.95582110649264px" >\
+                <div id="s-Table_3" class="pie table firer ie-background commentable non-processed" customid="Table 3"  datasizewidth="374.0px" datasizeheight="307.0px" dataX="-0.0" dataY="677.4" originalwidth="372.9999999999999px" originalheight="305.95582110649264px" >\
                   <div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
@@ -327,7 +327,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                     </div>\
                   </div>\
                 </div>\
-                <div id="s-Rectangle_2" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_1"   datasizewidth="383.8px" datasizeheight="24.4px" datasizewidthpx="383.78820637490367" datasizeheightpx="24.432778667983655" dataX="-6.8" dataY="0.0" >\
+                <div id="s-Rectangle_2" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_1"   datasizewidth="383.8px" datasizeheight="24.4px" datasizewidthpx="383.78820637490367" datasizeheightpx="24.432778667983655" dataX="-6.8" dataY="101.1" >\
                   <div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
@@ -342,7 +342,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                     </div>\
                   </div>\
                 </div>\
-                <div id="s-Rectangle_3" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_1"   datasizewidth="372.0px" datasizeheight="27.2px" datasizewidthpx="371.99523413947435" datasizeheightpx="27.24382265894735" dataX="2.0" dataY="882.7" >\
+                <div id="s-Rectangle_3" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_1"   datasizewidth="372.0px" datasizeheight="27.2px" datasizewidthpx="371.99523413947435" datasizeheightpx="27.24382265894735" dataX="2.0" dataY="983.9" >\
                   <div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
@@ -357,7 +357,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                     </div>\
                   </div>\
                 </div>\
-                <div id="s-Rectangle_17" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle 17"   datasizewidth="374.7px" datasizeheight="28.7px" datasizewidthpx="374.6961233667609" datasizeheightpx="28.677821571226275" dataX="-0.0" dataY="547.0" >\
+                <div id="s-Rectangle_17" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle 17"   datasizewidth="374.7px" datasizeheight="28.7px" datasizewidthpx="374.6961233667609" datasizeheightpx="28.677821571226275" dataX="-0.0" dataY="648.1" >\
                   <div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
@@ -372,14 +372,14 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                     </div>\
                   </div>\
                 </div>\
-                <div id="s-Path_7" class="pie path firer ie-background commentable non-processed" customid="Path 1"   datasizewidth="396.6px" datasizeheight="5.0px" dataX="0.5" dataY="545.0"  >\
+                <div id="s-Path_7" class="pie path firer ie-background commentable non-processed" customid="Path 1"   datasizewidth="396.6px" datasizeheight="5.0px" dataX="0.5" dataY="646.1"  >\
                   <div class="borderLayer">\
                   	<div class="imageViewport">\
                     	<?xml version="1.0" encoding="UTF-8"?>\
-                    	<svg xmlns="http://www.w3.org/2000/svg" width="395.5763854980469" height="3.0" viewBox="0.499998458602505 544.9999919918329 395.5763854980469 3.0" preserveAspectRatio="none">\
+                    	<svg xmlns="http://www.w3.org/2000/svg" width="395.5763854980469" height="3.0" viewBox="0.499998458602505 646.1182312694206 395.5763854980469 3.0" preserveAspectRatio="none">\
                     	  <g>\
                     	    <defs>\
-                    	      <path id="s-Path_7-d1224" d="M1.9999999999999432 546.4999999999998 L394.57641274980733 546.4999999999998 "></path>\
+                    	      <path id="s-Path_7-d1224" d="M1.9999999999999432 647.6182392775875 L394.57641274980733 647.6182392775875 "></path>\
                     	    </defs>\
                     	    <g>\
                     	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_7-d1224" fill="none" stroke-width="2.0" stroke="#999999" stroke-linecap="square" filter="none"></use>\
@@ -390,14 +390,14 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                     </div>\
                   </div>\
                 </div>\
-                <div id="s-Path_9" class="pie path firer ie-background commentable non-processed" customid="Path 1"   datasizewidth="399.8px" datasizeheight="5.0px" dataX="-3.1" dataY="1418.8"  >\
+                <div id="s-Path_9" class="pie path firer ie-background commentable non-processed" customid="Path 1"   datasizewidth="399.8px" datasizeheight="5.0px" dataX="-3.1" dataY="1519.9"  >\
                   <div class="borderLayer">\
                   	<div class="imageViewport">\
                     	<?xml version="1.0" encoding="UTF-8"?>\
-                    	<svg xmlns="http://www.w3.org/2000/svg" width="398.78448486328125" height="3.0" viewBox="-3.1040387582317237 1418.8255623260484 398.78448486328125 3.0" preserveAspectRatio="none">\
+                    	<svg xmlns="http://www.w3.org/2000/svg" width="398.78448486328125" height="3.0" viewBox="-3.1040387582314963 1519.9438016036358 398.78448486328125 3.0" preserveAspectRatio="none">\
                     	  <g>\
                     	    <defs>\
-                    	      <path id="s-Path_9-d1224" d="M-1.604040358619784 1420.3255615234377 L394.1804531084281 1420.3255615234377 "></path>\
+                    	      <path id="s-Path_9-d1224" d="M-1.6040403586195566 1521.4438008010252 L394.1804531084283 1521.4438008010252 "></path>\
                     	    </defs>\
                     	    <g>\
                     	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_9-d1224" fill="none" stroke-width="2.0" stroke="#999999" stroke-linecap="square" filter="none"></use>\
@@ -410,7 +410,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                 </div>\
 \
                 <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
-                  <div id="s-Rectangle_1" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_1"   datasizewidth="375.0px" datasizeheight="25.0px" datasizewidthpx="374.9735246934881" datasizeheightpx="25.0374281597542" dataX="1.0" dataY="1420.6" >\
+                  <div id="s-Rectangle_1" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_1"   datasizewidth="375.0px" datasizeheight="25.0px" datasizewidthpx="374.9735246934881" datasizeheightpx="25.0374281597542" dataX="1.0" dataY="1521.7" >\
                     <div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
@@ -425,7 +425,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                       </div>\
                     </div>\
                   </div>\
-                  <div id="s-Paragraph_3" class="pie richtext autofit firer mouseenter mouseleave ie-background commentable non-processed" customid="Text_8"   datasizewidth="29.7px" datasizeheight="15.0px" dataX="18.0" dataY="1483.5" >\
+                  <div id="s-Paragraph_3" class="pie richtext autofit firer mouseenter mouseleave ie-background commentable non-processed" customid="Text_8"   datasizewidth="45.3px" datasizeheight="30.0px" dataX="16.7" dataY="1560.5" >\
                     <div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
@@ -434,13 +434,13 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                       <div class="paddingLayer">\
                         <div class="content">\
                           <div class="valign">\
-                            <span id="rtr-s-Paragraph_3_0">Note</span>\
+                            <span id="rtr-s-Paragraph_3_0">Privacy<br />Note</span>\
                           </div>\
                         </div>\
                       </div>\
                     </div>\
                   </div>\
-                  <div id="s-Paragraph_16" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Text_25"   datasizewidth="300.6px" datasizeheight="101.7px" dataX="60.0" dataY="1445.5" >\
+                  <div id="s-Paragraph_16" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Text_25"   datasizewidth="284.6px" datasizeheight="102.7px" dataX="77.0" dataY="1536.2" >\
                     <div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
@@ -457,14 +457,14 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                   </div>\
                 </div>\
 \
-                <div id="s-Path_8" class="pie path firer ie-background commentable non-processed" customid="Path 1"   datasizewidth="399.8px" datasizeheight="5.0px" dataX="-10.1" dataY="880.7"  >\
+                <div id="s-Path_8" class="pie path firer ie-background commentable non-processed" customid="Path 1"   datasizewidth="399.8px" datasizeheight="5.0px" dataX="-10.1" dataY="981.9"  >\
                   <div class="borderLayer">\
                   	<div class="imageViewport">\
                     	<?xml version="1.0" encoding="UTF-8"?>\
-                    	<svg xmlns="http://www.w3.org/2000/svg" width="398.78448486328125" height="3.0" viewBox="-10.092607884088835 880.7487674527558 398.78448486328125 3.0" preserveAspectRatio="none">\
+                    	<svg xmlns="http://www.w3.org/2000/svg" width="398.78448486328125" height="3.0" viewBox="-10.092607884088835 981.8670067303447 398.78448486328125 3.0" preserveAspectRatio="none">\
                     	  <g>\
                     	    <defs>\
-                    	      <path id="s-Path_8-d1224" d="M-8.592609484476895 882.2487666501452 L387.19188398257097 882.2487666501452 "></path>\
+                    	      <path id="s-Path_8-d1224" d="M-8.592609484476895 983.367005927734 L387.19188398257097 983.367005927734 "></path>\
                     	    </defs>\
                     	    <g>\
                     	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_8-d1224" fill="none" stroke-width="2.0" stroke="#999999" stroke-linecap="square" filter="none"></use>\
@@ -475,21 +475,33 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                     </div>\
                   </div>\
                 </div>\
-                <div id="s-Path_1" class="pie path firer ie-background commentable non-processed" customid="Path 1"   datasizewidth="389.0px" datasizeheight="6.0px" dataX="-1.5" dataY="-4.9"  >\
+                <div id="s-Paragraph_7" class="pie richtext manualfit firer ie-background commentable non-processed" customid="You can scroll vertically"   datasizewidth="349.8px" datasizeheight="54.1px" dataX="12.6" dataY="42.7" >\
+                  <div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div>\
                   <div class="borderLayer">\
-                  	<div class="imageViewport">\
-                    	<?xml version="1.0" encoding="UTF-8"?>\
-                    	<svg xmlns="http://www.w3.org/2000/svg" width="388.0103759765625" height="5.0103607177734375" viewBox="-1.5051887343747694 -4.858358992650011 388.0103759765625 5.0103607177734375" preserveAspectRatio="none">\
-                    	  <g>\
-                    	    <defs>\
-                    	      <path id="s-Path_1-d1224" d="M2.2737367544323206E-13 -3.3531784486874585 L385.0000000000002 -1.3531784486874585 "></path>\
-                    	    </defs>\
-                    	    <g>\
-                    	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_1-d1224" fill="none" stroke-width="2.0" stroke="#999999" stroke-linecap="square" filter="none"></use>\
-                    	    </g>\
-                    	  </g>\
-                    	</svg>\
-\
+                    <div class="paddingLayer">\
+                      <div class="content">\
+                        <div class="valign">\
+                          <span id="rtr-s-Paragraph_7_0">You can scroll vertically to see complete content. To do this, you need to press and hold down your mouse button &nbsp;anywhere on the privacy content and drag it vertically</span>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </div>\
+                </div>\
+                <div id="s-Rectangle_4" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_1"   datasizewidth="374.0px" datasizeheight="30.4px" datasizewidthpx="373.9952341394742" datasizeheightpx="30.432778667983655" dataX="0.0" dataY="-0.9" >\
+                  <div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div>\
+                  <div class="borderLayer">\
+                    <div class="paddingLayer">\
+                      <div class="content">\
+                        <div class="valign">\
+                          <span id="rtr-s-Rectangle_4_0"></span>\
+                        </div>\
+                      </div>\
                     </div>\
                   </div>\
                 </div>\
